@@ -1,0 +1,7 @@
+=================Add Student=================
+    1. The first letter of firstname and lastname must be capitalized
+    2. Firstname and lastname must each have at least two letters
+    3. No digit allowed in the name
+    4. Age must between 0 and 100
+    5. Gender can be M (Male), F (Female) or O (Other)
+    6. Phone must be in the (xxx-xxx-xxxx) format
